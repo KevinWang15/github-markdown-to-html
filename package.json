@@ -1,0 +1,19 @@
+{
+  "name": "github-markdown-to-html",
+  "version": "1.0.0",
+  "description": "A light-weight markdown to html converter utilizing GitHub API",
+  "main": "",
+  "repository": "https://github.com/KevinWang15/github-markdown-to-html",
+  "license": "MIT",
+  "bin": {
+    "gmd": "gmd.js"
+  },
+  "author": "",
+  "dependencies": {
+    "needle": "^0.11.0",
+    "process": "^0.11.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
